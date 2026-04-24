@@ -4,6 +4,8 @@ A hands-on space for exploring, testing, and building Agent Skills. Perfect for 
 
 --- Built with the [Agent Skills format](https://agentskills.io/specification) — a standardized way to give AI agents new capabilities.
 
+Special shout out to my **HeyRon** den members :) Lets build some cool skills.
+
 ## What Are Agent Skills?
 
 Agent Skills are modular instructions that extend what an AI agent can do. They follow a simple structure:
