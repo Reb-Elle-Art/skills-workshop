@@ -1,6 +1,8 @@
 # Skills Workshop
 
-A public repository for testing and sharing Agent Skills. Built with the [Agent Skills format](https://agentskills.io/specification) — a standardized way to give AI agents new capabilities.
+A hands-on space for exploring, testing, and building Agent Skills. Perfect for newcomers who want to learn by doing — pick apart existing skills, modify them, or create your own from scratch.
+
+--- Built with the [Agent Skills format](https://agentskills.io/specification) — a standardized way to give AI agents new capabilities.
 
 ## What Are Agent Skills?
 
@@ -18,20 +20,7 @@ Learn more at [agentskills.io](https://agentskills.io).
 
 ## Skills Here
 
-### brainstorm-trigger
-A creative brainstorming skill that forces genuine divergence, user-driven cross-pollination, and bold amplification.
-
-Created from [Stuart's Brainstorm Trigger pattern](https://stellartogether.ai) — refined collaboratively.
-
-**What it does:**
-- Generates 5 wildly different approaches (labeled A-E)
-- User picks which approaches to combine
-- Cross-pollinates only the selected directions
-- User picks which combinations to amplify
-- Amplifies and presents
-- Supports iteration on demand
-
-**Activation:** Say "brainstorm," "ideate," "generate ideas," or "what if we..."
+This workshop contains skills ready for testing and sharing. Each skill lives in its own folder under `skills/`.
 
 ## Structure
 
